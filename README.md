@@ -8,5 +8,6 @@ This repo contains resources for a talk called Intro To Bash Scripting, given by
 
 ## Files in `bin`
 * `process.sh`: a basic bash script
+* `process_with_trap.sh`: an example of error handling with a trap
 * `process_with_options.sh`: an improved bash script using getopts
 * `logger.sh`: utility to write outputs and errors to file
