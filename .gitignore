@@ -1,0 +1,3 @@
+# Ignore output text files
+*_output.txt
+*_errors.txt
