@@ -4,7 +4,7 @@ This repo contains resources for a talk called Intro To Bash Scripting, given by
 
 ## Links
 * [Talk details](https://www.meetup.com/data-umbrella/events/299233060/)
-* Slides - link forthcoming
+* [Slides](https://docs.google.com/presentation/d/1X9pOOEFOIK2oI26VvuNKRBC8psIM8HnGqOZ6fOUF8jM/edit?usp=sharing)
 
 ## Files in `bin`
 * `process.sh`: a basic bash script
